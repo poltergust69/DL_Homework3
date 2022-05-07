@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Q2FsdmluIEhhcnJpcyAtIEhlYXRzdHJva2UgZnQuIFlvdW5nIFRodWcsIEFyaWFuYSBHcmFuZGUsIFBoYXJyZWxsIFdpbGxpYW1z.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">5607934</Metadata>
+    <Metadata name="Source">Calvin Harris - Heatstroke ft. Young Thug, Ariana Grande, Pharrell Williams.mp3</Metadata>
+    <Metadata name="SourceFile">Q2FsdmluIEhhcnJpcyAtIEhlYXRzdHJva2UgZnQuIFlvdW5nIFRodWcsIEFyaWFuYSBHcmFuZGUsIFBoYXJyZWxsIFdpbGxpYW1z.mp3</Metadata>
+    <Metadata name="mp3">Calvin Harris - Heatstroke ft. Young Thug, Ariana Grande, Pharrell Williams</Metadata>
+    <Metadata name="srcurl">Q2FsdmluIEhhcnJpcyAtIEhlYXRzdHJva2UgZnQuIFlvdW5nIFRodWcsIEFyaWFuYSBHcmFuZGUsIFBoYXJyZWxsIFdpbGxpYW1z.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">Q2FsdmluIEhhcnJpcyAtIEhlYXRzdHJva2UgZnQuIFlvdW5nIFRodWcsIEFyaWFuYSBHcmFuZGUsIFBoYXJyZWxsIFdpbGxpYW1z.mp3</Metadata>
+    <Metadata name="srclinkFile">Q2FsdmluIEhhcnJpcyAtIEhlYXRzdHJva2UgZnQuIFlvdW5nIFRodWcsIEFyaWFuYSBHcmFuZGUsIFBoYXJyZWxsIFdpbGxpYW1z.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Type">Songs</Metadata>
+    <Metadata name="Title">Calvin Harris - Heatstroke ft. Young Thug, Ariana Grande, Pharrell Williams</Metadata>
+    <Metadata name="Identifier">HASH01469d0e47fa4de4cc2358d4</Metadata>
+    <Metadata name="lastmodified">1650631626</Metadata>
+    <Metadata name="lastmodifieddate">20220422</Metadata>
+    <Metadata name="oailastmodified">1650633073</Metadata>
+    <Metadata name="oailastmodifieddate">20220422</Metadata>
+    <Metadata name="assocfilepath">HASH0146.dir</Metadata>
+    <Metadata name="gsdlassocfile">Q2FsdmluIEhhcnJpcyAtIEhlYXRzdHJva2UgZnQuIFlvdW5nIFRodWcsIEFyaWFuYSBHcmFuZGUsIFBoYXJyZWxsIFdpbGxpYW1z.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

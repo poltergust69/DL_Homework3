@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Q2FsdmluIEhhcnJpcyAtIFJvbGxpbiBmdC4gRnV0dXJlLCBLaGFsaWQ=.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">6619813</Metadata>
+    <Metadata name="Source">Calvin Harris - Rollin ft. Future, Khalid.mp3</Metadata>
+    <Metadata name="SourceFile">Q2FsdmluIEhhcnJpcyAtIFJvbGxpbiBmdC4gRnV0dXJlLCBLaGFsaWQ=.mp3</Metadata>
+    <Metadata name="mp3">Calvin Harris - Rollin ft. Future, Khalid</Metadata>
+    <Metadata name="srcurl">Q2FsdmluIEhhcnJpcyAtIFJvbGxpbiBmdC4gRnV0dXJlLCBLaGFsaWQ=.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">Q2FsdmluIEhhcnJpcyAtIFJvbGxpbiBmdC4gRnV0dXJlLCBLaGFsaWQ=.mp3</Metadata>
+    <Metadata name="srclinkFile">Q2FsdmluIEhhcnJpcyAtIFJvbGxpbiBmdC4gRnV0dXJlLCBLaGFsaWQ=.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Type">Songs</Metadata>
+    <Metadata name="Title">Calvin Harris - Rollin ft. Future, Khalid</Metadata>
+    <Metadata name="Identifier">HASH01a643384677174aa6d9054c</Metadata>
+    <Metadata name="lastmodified">1650631626</Metadata>
+    <Metadata name="lastmodifieddate">20220422</Metadata>
+    <Metadata name="oailastmodified">1650633073</Metadata>
+    <Metadata name="oailastmodifieddate">20220422</Metadata>
+    <Metadata name="assocfilepath">HASH01a6.dir</Metadata>
+    <Metadata name="gsdlassocfile">Q2FsdmluIEhhcnJpcyAtIFJvbGxpbiBmdC4gRnV0dXJlLCBLaGFsaWQ=.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

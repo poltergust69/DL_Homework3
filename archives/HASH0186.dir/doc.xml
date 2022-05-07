@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Q2FsdmluIEhhcnJpcyAtIFNsaWRlIGZ0LiBGcmFuayBPY2VhbiwgTWlnb3M=.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">5651193</Metadata>
+    <Metadata name="Source">Calvin Harris - Slide ft. Frank Ocean, Migos.mp3</Metadata>
+    <Metadata name="SourceFile">Q2FsdmluIEhhcnJpcyAtIFNsaWRlIGZ0LiBGcmFuayBPY2VhbiwgTWlnb3M=.mp3</Metadata>
+    <Metadata name="mp3">Calvin Harris - Slide ft. Frank Ocean, Migos</Metadata>
+    <Metadata name="srcurl">Q2FsdmluIEhhcnJpcyAtIFNsaWRlIGZ0LiBGcmFuayBPY2VhbiwgTWlnb3M=.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">Q2FsdmluIEhhcnJpcyAtIFNsaWRlIGZ0LiBGcmFuayBPY2VhbiwgTWlnb3M=.mp3</Metadata>
+    <Metadata name="srclinkFile">Q2FsdmluIEhhcnJpcyAtIFNsaWRlIGZ0LiBGcmFuayBPY2VhbiwgTWlnb3M=.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Type">Songs</Metadata>
+    <Metadata name="Title">Calvin Harris - Slide ft. Frank Ocean, Migos</Metadata>
+    <Metadata name="Identifier">HASH01860299e2ef872e5d1d1936</Metadata>
+    <Metadata name="lastmodified">1650631624</Metadata>
+    <Metadata name="lastmodifieddate">20220422</Metadata>
+    <Metadata name="oailastmodified">1650633073</Metadata>
+    <Metadata name="oailastmodifieddate">20220422</Metadata>
+    <Metadata name="assocfilepath">HASH0186.dir</Metadata>
+    <Metadata name="gsdlassocfile">Q2FsdmluIEhhcnJpcyAtIFNsaWRlIGZ0LiBGcmFuayBPY2VhbiwgTWlnb3M=.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

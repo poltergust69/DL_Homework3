@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\Q2FsdmluIEhhcnJpcyAtIEZha2luZyBJdCBmdC4gS2VobGFuaSwgTGlsIFlhY2h0eQ==.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">5847425</Metadata>
+    <Metadata name="Source">Calvin Harris - Faking It ft. Kehlani, Lil Yachty.mp3</Metadata>
+    <Metadata name="SourceFile">Q2FsdmluIEhhcnJpcyAtIEZha2luZyBJdCBmdC4gS2VobGFuaSwgTGlsIFlhY2h0eQ==.mp3</Metadata>
+    <Metadata name="mp3">Calvin Harris - Faking It ft. Kehlani, Lil Yachty</Metadata>
+    <Metadata name="srcurl">Q2FsdmluIEhhcnJpcyAtIEZha2luZyBJdCBmdC4gS2VobGFuaSwgTGlsIFlhY2h0eQ==.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">Q2FsdmluIEhhcnJpcyAtIEZha2luZyBJdCBmdC4gS2VobGFuaSwgTGlsIFlhY2h0eQ==.mp3</Metadata>
+    <Metadata name="srclinkFile">Q2FsdmluIEhhcnJpcyAtIEZha2luZyBJdCBmdC4gS2VobGFuaSwgTGlsIFlhY2h0eQ==.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Type">Songs</Metadata>
+    <Metadata name="Title">Calvin Harris - Faking It ft. Kehlani, Lil Yachty</Metadata>
+    <Metadata name="Identifier">HASH4a1e34d38be2f463cd5cc0</Metadata>
+    <Metadata name="lastmodified">1650631626</Metadata>
+    <Metadata name="lastmodifieddate">20220422</Metadata>
+    <Metadata name="oailastmodified">1650633072</Metadata>
+    <Metadata name="oailastmodifieddate">20220422</Metadata>
+    <Metadata name="assocfilepath">HASH4a1e.dir</Metadata>
+    <Metadata name="gsdlassocfile">Q2FsdmluIEhhcnJpcyAtIEZha2luZyBJdCBmdC4gS2VobGFuaSwgTGlsIFlhY2h0eQ==.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

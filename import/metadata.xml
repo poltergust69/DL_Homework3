@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>Funk Wav Bounces Vol\.1\.jpg</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Funk Wav Bounces Vol.1 - Album Artwork</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">Photos</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Adam Richard Wiles\.jpg</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Adam Richard Wiles</Metadata>
+			<Metadata mode="accumulate" name="dc.Type">Photos</Metadata>
+		</Description>
+	</FileSet>
+
+	<FileSet>
+		<FileName>Calvin Harris - Slide ft\. Frank Ocean, Migos\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Type">Songs</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Calvin Harris - Rollin ft\. Future, Khalid\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Type">Songs</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Calvin Harris - Heatstroke ft\. Young Thug, Ariana Grande, Pharrell Williams\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Type">Songs</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Calvin Harris - Faking It ft\. Kehlani, Lil Yachty\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Type">Songs</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>
